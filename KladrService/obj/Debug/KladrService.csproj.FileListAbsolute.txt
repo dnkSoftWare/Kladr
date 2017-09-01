@@ -1,0 +1,8 @@
+C:\Users\DKaruna\Source\Repos\myprojects2\GetAndLoad_KLADR\GetAndLoad_KLADR\bin\Debug\KladrService.exe.config
+C:\Users\DKaruna\Source\Repos\myprojects2\GetAndLoad_KLADR\GetAndLoad_KLADR\bin\Debug\KladrService.exe
+C:\Users\DKaruna\Source\Repos\myprojects2\GetAndLoad_KLADR\GetAndLoad_KLADR\bin\Debug\KladrService.pdb
+C:\Users\DKaruna\Source\Repos\csharp\KladrService\obj\Debug\KladrService.csprojResolveAssemblyReference.cache
+C:\Users\DKaruna\Source\Repos\csharp\KladrService\obj\Debug\KladrService.ProjectInstaller.resources
+C:\Users\DKaruna\Source\Repos\csharp\KladrService\obj\Debug\KladrService.csproj.GenerateResource.Cache
+C:\Users\DKaruna\Source\Repos\csharp\KladrService\obj\Debug\KladrService.exe
+C:\Users\DKaruna\Source\Repos\csharp\KladrService\obj\Debug\KladrService.pdb

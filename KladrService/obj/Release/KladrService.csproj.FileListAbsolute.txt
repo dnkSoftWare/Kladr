@@ -1,0 +1,9 @@
+C:\Users\DKaruna\Source\Repos\csharp\KladrService\bin\Release\KladrService.exe.config
+C:\Users\DKaruna\Source\Repos\csharp\KladrService\bin\Release\KladrService.exe
+C:\Users\DKaruna\Source\Repos\csharp\KladrService\bin\Release\KladrService.pdb
+C:\Users\DKaruna\Source\Repos\csharp\KladrService\bin\Release\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\DKaruna\Source\Repos\csharp\KladrService\bin\Release\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\DKaruna\Source\Repos\csharp\KladrService\obj\Release\KladrService.ProjectInstaller.resources
+C:\Users\DKaruna\Source\Repos\csharp\KladrService\obj\Release\KladrService.csproj.GenerateResource.Cache
+C:\Users\DKaruna\Source\Repos\csharp\KladrService\obj\Release\KladrService.exe
+C:\Users\DKaruna\Source\Repos\csharp\KladrService\obj\Release\KladrService.pdb
